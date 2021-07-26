@@ -1,7 +1,4 @@
-hi
-# jiyoon
-# jiyoon
-# jiyoon
-# jiyoon
-# jiyoon
+# WELCOME
+##This is jiyoon's github.
+
 # jiyoon
